@@ -18,4 +18,4 @@ async def on_message(message):
   if message.content.startswith('!shout'):
     await client.send_message(message.channel, 'SHOUT OUT LOUD!')
 
-client.run('MzQ4MzQxMjUxNTU4MzQyNjc2.DHlwJg.Rlb1QsUhLjXbHCPc3q9YHj9KixQ')
+client.run('YOUR TOKEN')
